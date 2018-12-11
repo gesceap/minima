@@ -30,7 +30,6 @@ The Four GTMMK files represent the four distinct .nl2 files used in nanoloop two
     c2c4745f0d90ede14dc0a6c08e5827ba  GTMMK cheapshot mix GBA2-2.nl2
     bf00c9bab58e21123b029f83469a515d  Hsi01.nan
     5da8cd309bda45fd535a3eeea41d83ae  Kikf01.nan
-    6ffab2f3ec49362712c86ccd5057b3ab  README.md
     308497afdd6371d0ecd37cf1f17c35af  Svacd02.nan
     00ff3751998418ae1c697d7281cb5653  Workout01.nan
 
