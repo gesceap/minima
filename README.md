@@ -2,6 +2,8 @@
 
 Nanoloop song files (.nan) for the album entitled "Minima"
 
+https://gesceap.bandcamp.com/album/minima
+
 All songs made on Nanoloop Mobile on iOS using an iPad 2 by Gesceap, except track 8 made on Nanoloop2 two using two Gameboy Advances by Cheapshot.
 
 ## Tracklist
@@ -33,13 +35,8 @@ The Four GTMMK files represent the four distinct .nl2 files used in nanoloop two
     308497afdd6371d0ecd37cf1f17c35af  Svacd02.nan
     00ff3751998418ae1c697d7281cb5653  Workout01.nan
 
-## Links
+# Download
 
-* `Minima` Album TBA: [Cheapbeats](https://www.cheapbeats.net/)
-* Gesceap
-  * [Website](https://gesceap.github.io/)
-  * [Youtube](https://www.youtube.com/channel/UChvIb5lU1CswBTno6BCGG4Q)
-  * [Twitter](https://twitter.com/gesceap_)
-* Cheapshot
-  * [Twitter](https://twitter.com/cheapshot)
-  * [Instagram](https://www.instagram.com/cheapshot/)
+Download all the nanoloop `.nan` project files here
+
+https://github.com/gesceap/minima/archive/refs/heads/master.zip
